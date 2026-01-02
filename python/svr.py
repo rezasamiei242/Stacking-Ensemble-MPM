@@ -5,7 +5,7 @@ This script trains an SVR model, performs hyperparameter optimization,
 evaluates predictive performance, and generates prospectivity predictions
 for the target area.
 
-Author: [Your Name]
+Author: [MohammadReza Samiei]
 """
 
 import numpy as np
